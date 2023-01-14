@@ -93,7 +93,11 @@ h6{
     margin-bottom: 25px;
 }
 
-#button1, #button2, #button3{
+#button1{
+    scale: 130%;
+}
+
+#button2, #button3{
     scale: 130%}
 
 h7{
