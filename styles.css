@@ -6,8 +6,6 @@ body{
     max-width: fit-content;
     width: auto;
     margin-left: 0px;
-    display: flex;
-    justify-content: center;
 }
 
 
@@ -36,8 +34,7 @@ h1{
     font-weight: 400;
     color: black;
     background-color: antiquewhite;
-    display: flex;
-    justify-content: center;
+    text-align: center;
     border-bottom: 0px;
 }
 
@@ -103,7 +100,7 @@ h7{
 }
 
 #button1{
-    margin-right: 35px;
+    margin-right: 25px;
     border-top: 0;
     background-color: antiquewhite;
     color: black;
