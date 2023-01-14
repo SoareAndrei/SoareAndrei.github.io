@@ -5,7 +5,6 @@ body{
     width: 100vw;
     max-width: fit-content;
     width: auto;
-    align-items: center;
     margin-left: 0px;
 }
 
@@ -119,7 +118,7 @@ h7{
 #button3{
     background-color: antiquewhite;
     color: black;
-    margin-bottom: ;
+    margin: bottom 20px; ;
 }
 
 a  {
