@@ -52,10 +52,10 @@ h2 , h4{
 }
 
 #van-picture{
-    width: 720px;
-    height: 480px;
-    max-width: 720px;
-    max-height: 480px;
+    width:250px;
+    height: 200px;
+    max-width:250px;
+    max-height: 200px;
     margin-bottom: 0px;
 }
 
