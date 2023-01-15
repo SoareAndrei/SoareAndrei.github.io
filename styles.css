@@ -146,7 +146,7 @@ a:active {
     color:coral;
 }
 
-button{
+.buttons{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
