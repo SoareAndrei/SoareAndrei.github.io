@@ -119,6 +119,8 @@ h7{
     background-color: antiquewhite;
     color: black;
     font-size: x-large;
+    margin-bottom: 0;
+    padding-bottom: 5px;
 }
 
 
