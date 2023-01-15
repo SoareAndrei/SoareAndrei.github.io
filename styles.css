@@ -94,11 +94,11 @@ h6{
 }
 
 #button1{
-    scale: 160%;
+    scale: 115%;
 }
 
 #button2, #button3{
-    scale: 160%}
+    scale: 115%}
 
 h7{
     display: flex;
@@ -147,5 +147,7 @@ a:active {
 }
 
 button{
+    display: flex;
+    justify-content: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
