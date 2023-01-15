@@ -124,7 +124,9 @@ h7{
 #button3{
     background-color: antiquewhite;
     color: black;
-    margin: bottom 20px; ;
+    margin-bottom: 20px; 
+    margin-top: 15px;
+    border-top: 0;
 }
 
 a  {
