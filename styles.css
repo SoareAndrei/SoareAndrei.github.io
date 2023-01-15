@@ -112,7 +112,6 @@ h7{
     background-color: antiquewhite;
     color: black;
     font-size: x-large;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #button2{
@@ -122,7 +121,6 @@ h7{
     background-color: antiquewhite;
     color: black;
     font-size: x-large;
-    font-family: sf pro display;
 }
 
 
@@ -132,7 +130,6 @@ h7{
     margin-bottom: 20px; 
     margin-top: 15px;
     border-top: 0; font-size: x-large;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -147,4 +144,9 @@ a:hover {
 }
 a:active {
     color:coral;
+}
+
+button{
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
