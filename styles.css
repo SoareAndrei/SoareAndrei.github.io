@@ -88,8 +88,8 @@ h2{
 }
 
 h6{
-    display: flex;
-    justify-content: center;
+    align-items: center;
+    display: block;
     margin-bottom: 25px;
 }
 
