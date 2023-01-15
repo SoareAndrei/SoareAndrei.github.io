@@ -147,6 +147,7 @@ a:active {
 }
 
 .buttons{
-    text-align: center;
+    display: flex;
+    justify-content: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
