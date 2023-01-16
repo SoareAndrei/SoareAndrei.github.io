@@ -134,8 +134,7 @@ h7{
     margin-top: 0;
     border-top: 0; 
     font-size: x-large;
-    position: fixed;
-    top: 290px;
+    position: relative;
 }
 
 a  {
