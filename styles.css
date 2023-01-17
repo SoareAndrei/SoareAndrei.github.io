@@ -33,6 +33,7 @@ h1{
     font-size: large;
     font-weight: 400;
     color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: antiquewhite;
     text-align: center;
     border-bottom: 0px;
@@ -155,7 +156,7 @@ a:active {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0 auto;
 }
 
