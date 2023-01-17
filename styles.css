@@ -158,3 +158,9 @@ a:active {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 0 auto;
 }
+
+if (navigator.userAgent.match(/samsung/i)) {
+    alert("Browser-ul pe care il folositi nu este configurat si nu reda acest site in mod corespunzator(Samsung Internet)." +
+    "Va rugam folositi un browser cu efect de reda corect." +
+    “browser instead. \n\n”+
+    “Recomandam folosirea aplicatiilor precum Safari, Google Chrome, Firefox, sau Microsoft Edge.”);
