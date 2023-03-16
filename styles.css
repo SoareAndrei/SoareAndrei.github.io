@@ -5,6 +5,11 @@ body{
     margin-left: 0px;
 }
 
+.title-img{
+    width: 99vw;
+    max-width: fit-content;
+}
+
 
 header{
     font-size: 2cm;
