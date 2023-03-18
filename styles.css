@@ -18,6 +18,8 @@ header{
     font-weight: 500;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 h1{
