@@ -8,6 +8,8 @@ body{
 .title-img{
     width: 99vw;
     max-width: fit-content;
+    margin-bottom: 5px;
+    padding: 0px;
 }
 
 
@@ -55,10 +57,10 @@ h2 , h4{
 }
 
 #van-picture{
-    width:250px;
-    height: 150px;
-    max-width:250px;
-    max-height: 200px;
+    width: 430px;
+    height: 225px;
+    max-width:600px;
+    max-height: 225px;
     margin-bottom: 0px;
 }
 
