@@ -6,9 +6,10 @@ body{
 }
 
 .title-img{
-    width: 99vw;
+    width: 700px;
+    height: 300px;
     max-width: fit-content;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     padding: 0px;
 }
 
@@ -98,6 +99,8 @@ h6{
     align-items: center;
     display: block;
     margin-bottom: 25px;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 #button1{
