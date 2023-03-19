@@ -1,6 +1,6 @@
 body{
-    background-color: antiquewhite;
-    color: rgb(34, 15, 89);
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 0px;
 }
@@ -31,16 +31,16 @@ h1{
 }
 
 .divider{
-    border-bottom: 6px dotted rgb(34, 15, 89);
+    border-bottom: 6px dotted antiquewhite;
     margin: 5px 0;
 }
 
 .select{
     font-size: large;
     font-weight: 400;
-    color: antiquewhite;
+    color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(34, 15, 89);
+    background-color: antiquewhite;
     text-align: center;
     border-bottom: 0px;
 }
@@ -127,8 +127,8 @@ h7{
 #button1{
     border-top: 0;
     margin-top: 0;
-    background-color: rgb(34, 15, 89);
-    color: antiquewhite;
+    background-color: antiquewhite;
+    color: black;
     font-size: x-large;
 }
 
@@ -136,8 +136,8 @@ h7{
     border-top: 0;
     margin-top: 25px;
     padding-top: 0;
-    background-color: rgb(34, 15, 89);
-    color: antiquewhite;
+    background-color: antiquewhite;
+    color: black;
     font-size: x-large;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -145,8 +145,8 @@ h7{
 
 
 #button3{
-    background-color: rgb(34, 15, 89);
-    color: antiquewhite;
+    background-color: antiquewhite;
+    color: black;
     margin-bottom: 20px; 
     padding-top: 0;
     margin-top: 0;
@@ -156,10 +156,10 @@ h7{
 }
 
 a  {
-    color:antiquewhite ;
+    color:black ;
 }
 a:visited {
-    color:blueviolet;
+    color:black;
 }
 a:hover {
     color:blueviolet ;
